@@ -72,4 +72,4 @@ I was happy about what I discovered from the tweets considering this is my first
 In the future, I would like to build machine learning models on this data set and build more interactive visualizaiton, if I ever want to analyze tweets data again. :) 
 
 
-You can find my presentation [here]https://github.com/Yishu-D/Understand-Cryptocurrency_NLP-Project/blob/main/Deliverables/Understanding%20Cryptocurrency%20Through%20Tweets.pdf, and the analyzing process [here]https://github.com/Yishu-D/Understand-Cryptocurrency_NLP-Project/blob/main/NLP%20Project_Crypto%20Fan%20Identifier_data%20acquisition.ipynb 
+You can find my presentation [here](https://github.com/Yishu-D/Understand-Cryptocurrency_NLP-Project/blob/main/Deliverables/Understanding%20Cryptocurrency%20Through%20Tweets.pdf), and the analyzing process [here](https://github.com/Yishu-D/Understand-Cryptocurrency_NLP-Project/blob/main/NLP%20Project_Crypto%20Fan%20Identifier_data%20acquisition.ipynb) 
