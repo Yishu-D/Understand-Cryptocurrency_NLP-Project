@@ -32,7 +32,7 @@ This project will extract text data extracted from Twitter about the top 5 crypt
   I will be using Twitter API to pull the data. NLTK and scikit-learn will be used for text processing. For topic modeling, I will be use NMF and CorEx.  
 
 #### MVP Goal:
-* What would a [minimum viable product (MVP)](./mvp.md) look like for this project?  
+* What would a minimum viable product (MVP) look like for this project?  
   
   The goal for the MVP of my project would be to have my dataset downloaded and a text preprocessing pipeline established
   
